@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&&hide=html" />
