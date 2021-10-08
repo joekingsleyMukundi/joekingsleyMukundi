@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I am very good at singing
 -->
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
