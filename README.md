@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very good at singing
 -->
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
