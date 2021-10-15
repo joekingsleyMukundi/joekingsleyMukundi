@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Joe Mukundi
 
+a developer  working with  node js, php/laravel ,flutter and spring.I am a friendly person good communicator and a team player.I belive togeter we can make a diffrence.My view on a great engineer is not what you know but what you can find out and the abillity to learn new technologies and embrace them. I am a good problem solver and fast thinker.Open to change.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Affinity Project Managment tool
 - 🌱 I’m currently learning ...[Flutter,java Spring]
