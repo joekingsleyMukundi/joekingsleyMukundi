@@ -4,8 +4,8 @@ a developer  working with  node js, php/laravel ,flutter and spring.I am a frien
 
 
 - 🔭 I’m currently working on ...Affinity Project Managment tool
-- 🌱 I’m currently learning ...[Flutter,java Spring]
-- 👯 I’m looking to collaborate on ...[node js,flutter,spring,laravel]
+- 🌱 I’m currently learning ...[data stuctures,java Spring]
+- 👯 I’m looking to collaborate on ...[node js,flutter,spring,laravel,django]
 - 🤔 I’m looking for help with ...Android Kotlin
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...{EMAIL}[joekingsleymukundi@gmail.com]
