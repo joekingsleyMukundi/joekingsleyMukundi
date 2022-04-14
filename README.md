@@ -13,7 +13,7 @@ a developer  working with  node js, php/laravel ,flutter and spring.I am a frien
 - ⚡ Fun fact: ...I am very good at singing
 -->
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="64px" src="https://cdn.svgporn.com/logos/node.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
