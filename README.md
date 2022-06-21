@@ -26,7 +26,7 @@ a developer  working with  node js, php/laravel ,flutter and spring.I am a frien
     <img src="https://visitor-badge.laobi.icu/badge?page_id=joekingsleyMukundi.joekingsleyMukundi" alt="page views" />
   </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&hide=html,css,ejs,kotlin" /> , <a href="https://github.com/joekingsleyMukundi/joekingsleyMukundi">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&hide=html,css,ejs,kotlin,shell" /> , <a href="https://github.com/joekingsleyMukundi/joekingsleyMukundi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joekingsleyMukundi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mukundi's GitHub Stats" />
 </a>
 
