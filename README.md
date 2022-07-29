@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...I am very good at singing
 -->
 
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> 
+<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg"> <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> 
 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
@@ -26,7 +26,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=joekingsleyMukundi.joekingsleyMukundi" alt="page views" />
   </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&hide=html,css,ejs,kotlin,shell,hack" /> , <a href="https://github.com/joekingsleyMukundi/joekingsleyMukundi">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekingsleyMukundi&hide=html,css,ejs,kotlin,shell,hack,powershell" /> , <a href="https://github.com/joekingsleyMukundi/joekingsleyMukundi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joekingsleyMukundi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mukundi's GitHub Stats" />
 </a>
 
