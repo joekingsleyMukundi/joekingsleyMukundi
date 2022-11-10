@@ -3,7 +3,7 @@
  A software developer with a touch of dev ops, currently in love with nodejs django  with a touch of golang and spring boot. I am a blockhain enthusiast and gaining a good understanding of microservices and event driven architecture. I dream of becoming a software architect at and help SMES to become fortune 500 companies. I love watching football and software related vlogs  like a day in a life of a software engeneer. i am getting really good at googling and pusching code snippets  on git hup to help me develop quicker. My view on test driven development is that it might be slow  during development but its going to save up on time in the long run. finally Blockchain is the future 
 
 
-- 🔭 I’m currently working on ...Ehomes Digital real estate and writers hub 
+- 🔭 I’m currently working on ...Shule one, anzaacademy 
 - 🌱 I’m currently learning ...[data stuctures,java Spring]
 - 👯 I’m looking to collaborate on ...[node js,flutter,spring,django]
 - 🤔 I’m looking for help with ...software design and various types of software architecture
